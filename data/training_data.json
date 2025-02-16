@@ -1,0 +1,10 @@
+[
+    {
+        "input": "Generate a business plan for a $500K restaurant E-2 Visa startup",
+        "output": "Executive Summary:\nA modern fusion restaurant located in Miami, FL targeting young professionals...\n\nBusiness Overview:\n- Investment: $500,000\n- Location: Prime downtown area\n- Concept: Asian-Latin fusion\n\nMarket Analysis:\n- Target demographic: 25-40 year old professionals\n- Competition analysis\n- Growth potential"
+    },
+    {
+        "input": "Generate a business plan for a $600K retail store E-2 Visa startup",
+        "output": "Executive Summary:\nAn upscale boutique retail store in Los Angeles specializing in sustainable fashion...\n\nBusiness Overview:\n- Investment: $600,000\n- Location: Shopping district\n- Inventory: Eco-friendly clothing\n\nFinancial Projections:\n- Year 1 Revenue: $800,000\n- Break-even: Month 18\n- Growth strategy"
+    }
+]
