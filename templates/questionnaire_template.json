@@ -1,0 +1,310 @@
+{
+    "E-2 VISA BUSINESS PLAN QUESTIONNAIRE": {
+        "title": "E-2 VISA BUSINESS PLAN QUESTIONNAIRE",
+        "questions": [
+            {
+                "id": "full_name",
+                "question": "Full Name:",
+                "type": "text"
+            },
+            {
+                "id": "date_of_birth",
+                "question": "Date of Birth:",
+                "type": "text"
+            },
+            {
+                "id": "nationality",
+                "question": "Nationality:",
+                "type": "text"
+            },
+            {
+                "id": "current_country_of_residence",
+                "question": "Current Country of Residence:",
+                "type": "text_area"
+            },
+            {
+                "id": "u_s_visa_history_if_applicable",
+                "question": "U.S. Visa History (if applicable):",
+                "type": "text_area"
+            },
+            {
+                "id": "have_you_ever_applied_for_or_held_an_e_2_visa_before",
+                "question": "Have you ever applied for or held an E-2 visa before?",
+                "type": "text_area"
+            },
+            {
+                "id": "legal_business_name_or_proposed_name",
+                "question": "Legal Business Name (or proposed name):",
+                "type": "text_area"
+            },
+            {
+                "id": "business_structure_llc_corporation_etc",
+                "question": "Business Structure (LLC, Corporation, etc.):",
+                "type": "text_area"
+            },
+            {
+                "id": "date_business_was_formed",
+                "question": "Date Business was formed:",
+                "type": "text"
+            },
+            {
+                "id": "location_business_was_formed_city_state",
+                "question": "Location Business was formed (City, State):",
+                "type": "text_area"
+            },
+            {
+                "id": "business_address_if_available",
+                "question": "Business Address (if available):",
+                "type": "text_area"
+            },
+            {
+                "id": "type_of_business_industry_services_products_offered",
+                "question": "Type of Business (industry, services/products offered):",
+                "type": "text_area"
+            },
+            {
+                "id": "website_if_available",
+                "question": "Website (if available):",
+                "type": "text"
+            },
+            {
+                "id": "estimated_business_opening_date",
+                "question": "Estimated Business Opening Date:",
+                "type": "text_area"
+            },
+            {
+                "id": "total_investment_amount_in_usd",
+                "question": "Total Investment Amount (in USD):",
+                "type": "number",
+                "min": 0,
+                "step": 1000
+            },
+            {
+                "id": "how_will_the_funds_be_used_breakdown_of_estimated_expenses_such_as_equipment_inventory_marketing_rent_salaries_etc",
+                "question": "How will the funds be used? (Breakdown of estimated expenses such as equipment, inventory, marketing, rent, salaries, etc.)",
+                "type": "number",
+                "min": 0,
+                "step": 1000
+            },
+            {
+                "id": "do_you_have_a_us_business_bank_account_set_up",
+                "question": "Do you have a US Business Bank Account set up?",
+                "type": "text_area"
+            },
+            {
+                "id": "have_any_funds_already_been_invested_if_so_provide_details_amount_date_and_purpose_of_investment_provide_a_breakdown_of_the_specific_assets_or_inventory_that_have_already_been_purchased_along_with_receipts_of_the_same",
+                "question": "Have any funds already been invested? If so, provide details (amount, date, and purpose of investment). Provide a breakdown of the specific assets or inventory that have already been purchased, along with receipts of the same.",
+                "type": "number",
+                "min": 0,
+                "step": 1000
+            },
+            {
+                "id": "will_additional_funds_be_invested_in_the_future_if_so_what_is_the_projected_timeline",
+                "question": "Will additional funds be invested in the future? If so, what is the projected timeline?",
+                "type": "number",
+                "min": 0,
+                "step": 1000
+            },
+            {
+                "id": "have_you_already_started_business_operations_if_yes_describe_how",
+                "question": "Have you already started business operations? If yes, describe how.",
+                "type": "text_area"
+            },
+            {
+                "id": "what_will_be_your_role_in_the_business_s_day_to_day_operations",
+                "question": "What will be your role in the business\u2019s day-to-day operations?",
+                "type": "text_area"
+            },
+            {
+                "id": "have_you_already_secured_a_business_lease_or_location_if_yes_provide_details",
+                "question": "Have you already secured a business lease or location? (If yes, provide details.)",
+                "type": "text_area"
+            },
+            {
+                "id": "does_your_business_require_any_licenses_to_conduct_operations_if_yes_have_you_already_secured_any",
+                "question": "Does your business require any licenses to conduct operations? If yes, have you already secured any?",
+                "type": "text_area"
+            },
+            {
+                "id": "do_you_have_any_business_partners_if_so_list_their_names_roles_and_ownership_percentage",
+                "question": "Do you have any business partners? If so, list their names, roles, and ownership percentage.",
+                "type": "text_area"
+            },
+            {
+                "id": "will_you_be_responsible_for_making_major_business_decisions_if_not_who_will",
+                "question": "Will you be responsible for making major business decisions? If not, who will?",
+                "type": "text_area"
+            },
+            {
+                "id": "what_is_your_experience_in_this_industry_or_related_fields_please_provide_a_copy_of_your_resume_with_any_relevant_experience",
+                "question": "What is your experience in this industry or related fields? Please provide a copy of your resume with any relevant experience.",
+                "type": "text_area"
+            },
+            {
+                "id": "how_many_employees_does_your_business_currently_have_if_applicable",
+                "question": "How many employees does your business currently have (if applicable)?",
+                "type": "text_area"
+            },
+            {
+                "id": "how_many_new_employees_do_you_plan_to_hire_in_the_next_1_5_years",
+                "question": "How many new employees do you plan to hire in the next 1-5 years?",
+                "type": "text_area"
+            },
+            {
+                "id": "what_types_of_jobs_will_you_create_e_g_administrative_managerial_technical_etc",
+                "question": "What types of jobs will you create (e.g., administrative, managerial, technical, etc.)?",
+                "type": "text_area"
+            },
+            {
+                "id": "what_is_the_estimated_salary_range_for_each_of_these_positions_over_the_next_5_years",
+                "question": "What is the estimated salary range for each of these positions over the next 5 years?",
+                "type": "number",
+                "min": 0,
+                "step": 1000
+            },
+            {
+                "id": "will_your_employees_work_in_full_time_part_time_positions_or_as_contractors",
+                "question": "Will your employees work in full-time, part-time positions or as contractors?",
+                "type": "text_area"
+            },
+            {
+                "id": "who_are_your_target_customers_individuals_businesses_specific_demographics_etc",
+                "question": "Who are your target customers? (Individuals, businesses, specific demographics, etc.)",
+                "type": "text_area"
+            },
+            {
+                "id": "what_are_your_main_revenue_streams",
+                "question": "What are your main revenue streams?",
+                "type": "number",
+                "min": 0,
+                "step": 1000
+            },
+            {
+                "id": "have_you_conducted_market_or_industry_research_for_your_industry_in_the_us_if_so_please_state_findings",
+                "question": "Have you conducted market or industry research for your industry in the US? If so, please state findings",
+                "type": "text_area"
+            },
+            {
+                "id": "what_are_the_biggest_challenges_you_anticipate_in_your_industry",
+                "question": "What are the biggest challenges you anticipate in your industry?",
+                "type": "text_area"
+            },
+            {
+                "id": "who_are_your_main_competitors",
+                "question": "Who are your main competitors?",
+                "type": "text_area"
+            },
+            {
+                "id": "what_is_your_projected_revenue_for_the_first_5_years",
+                "question": "What is your projected revenue for the first 5 years?",
+                "type": "number",
+                "min": 0,
+                "step": 1000
+            },
+            {
+                "id": "year_1",
+                "question": "Year 1:",
+                "type": "text"
+            },
+            {
+                "id": "year_2",
+                "question": "Year 2:",
+                "type": "text"
+            },
+            {
+                "id": "year_3",
+                "question": "Year 3:",
+                "type": "text"
+            },
+            {
+                "id": "year_4",
+                "question": "Year 4:",
+                "type": "text"
+            },
+            {
+                "id": "year_5",
+                "question": "Year 5:",
+                "type": "text"
+            },
+            {
+                "id": "what_marketing_strategies_will_you_use_to_promote_your_business_e_g_social_media_seo_content_marketing_email_marketing_paid_ads_etc",
+                "question": "What marketing strategies will you use to promote your business? (e.g., social media, SEO, content marketing, email marketing, paid ads, etc.)",
+                "type": "text_area"
+            },
+            {
+                "id": "will_your_business_have_social_media_accounts_if_so_please_list_the_platforms_you_plan_to_use_e_g_instagram_linkedin_facebook_tiktok_twitter_etc",
+                "question": "Will your business have social media accounts? If so, please list the platforms you plan to use (e.g., Instagram, LinkedIn, Facebook, TikTok, Twitter, etc.).",
+                "type": "text_area"
+            },
+            {
+                "id": "do_you_have_an_active_operating_website_if_so_please_provide_any_relevant_analytics_of_site_performance",
+                "question": "Do you have an active, operating website? If so, please provide any relevant analytics of site performance.",
+                "type": "text_area"
+            },
+            {
+                "id": "will_your_business_be_listed_on_any_online_marketplaces_e_g_amazon_etsy_ebay_google_business_etc",
+                "question": "Will your business be listed on any online marketplaces? (e.g., Amazon, Etsy, eBay, Google Business, etc.)",
+                "type": "text_area"
+            },
+            {
+                "id": "will_you_use_any_traditional_marketing_methods_e_g_business_cards_flyers_billboards_radio_ads_newspaper_ads_etc",
+                "question": "Will you use any traditional marketing methods? (e.g., business cards, flyers, billboards, radio ads, newspaper ads, etc.)",
+                "type": "text_area"
+            },
+            {
+                "id": "do_you_plan_to_attend_industry_networking_events_conferences_or_trade_shows_if_yes_please_provide_details",
+                "question": "Do you plan to attend industry networking events, conferences, or trade shows? If yes, please provide details.",
+                "type": "text_area"
+            },
+            {
+                "id": "will_you_have_a_referral_or_partnership_program_to_attract_customers",
+                "question": "Will you have a referral or partnership program to attract customers?",
+                "type": "text_area"
+            },
+            {
+                "id": "are_there_any_other_marketing_initiatives_or_strategies_you_plan_to_implement",
+                "question": "Are there any other marketing initiatives or strategies you plan to implement?",
+                "type": "text_area"
+            },
+            {
+                "id": "do_you_have_a_marketing_budget_set_aside_if_so_please_specify_the_amount",
+                "question": "Do you have a marketing budget set aside? If so, please specify the amount.",
+                "type": "number",
+                "min": 0,
+                "step": 1000
+            },
+            {
+                "id": "what_is_the_mission_of_your_business",
+                "question": "What is the mission of your business?",
+                "type": "text_area"
+            },
+            {
+                "id": "what_are_your_short_term_1_year_and_long_term_5_years_goals",
+                "question": "What are your short-term (1 year) and long-term (5 years) goals?",
+                "type": "text_area"
+            },
+            {
+                "id": "what_key_advantages_do_you_have_over_competitors_e_g_technology_pricing_customer_service_branding_location",
+                "question": "What key advantages do you have over competitors (e.g., technology, pricing, customer service, branding, location)?",
+                "type": "text_area"
+            },
+            {
+                "id": "do_you_have_any_partnerships_in_place_or_planned_for_the_near_future",
+                "question": "Do you have any partnerships in place or planned for the near future?",
+                "type": "text_area"
+            },
+            {
+                "id": "have_you_already_secured_agreements_or_engaged_in_conversation_with_vendors_and_or_costumers_if_yes_please_list_them_below_along_with_any_contracts_or_letters_of_intent_that_may_have_been_acquired",
+                "question": "Have you already secured agreements or engaged in conversation with vendors and/or costumers? If yes, please list them below, along with any contracts or letters of intent that may have been acquired.",
+                "type": "number",
+                "min": 0,
+                "step": 1000
+            },
+            {
+                "id": "future_plans_do_you_plan_on_expanding_to_additional_locations_will_you_offer_any_additional_products_and_or_services_in_the_upcoming_years_of_operations",
+                "question": "Future plans: Do you plan on expanding to additional locations? WIll you offer any additional products and/or services in the upcoming years of operations?",
+                "type": "text_area"
+            }
+        ]
+    }
+}
