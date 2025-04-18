@@ -129,13 +129,3 @@ if generate:
 streamlit run app.py
 ```
 
----
-
-## 🚀 Next Steps
-1️⃣ **Train with More Business Plans** - Improve quality with additional training data.  
-2️⃣ **Add Template Adaptation** - Use `.docx` templates for structured formatting.  
-3️⃣ **Enhance RAG Integration** - Retrieve real visa requirements dynamically.  
-
----
-
-📢 **Need more features? Let me know!** 🚀
